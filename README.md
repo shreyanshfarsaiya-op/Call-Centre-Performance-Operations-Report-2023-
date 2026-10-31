@@ -45,13 +45,5 @@ The dashboard enables team leads and operational managers to drill down into ind
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](screenshots/dashboard_view.png)
+<img width="1435" height="730" alt="call centre report screenshot" src="https://github.com/user-attachments/assets/91e08778-ba37-4482-a008-afff48803a6b" />
 
----
-
-## Repository Structure
-```text
-├── call_centre_performance_tracker.xlsx   # Main Excel workbook with data & dashboard
-├── README.md                              # Project documentation
-└── screenshots/
-    └── dashboard_view.png                 # Exported image of the completed dashboard
